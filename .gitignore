@@ -1,8 +1,13 @@
+logs/log*
+migrations/
+.idea
+.idea/workspace.xml
+migrations\
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
+migrations/
 # C extensions
 *.so
 
